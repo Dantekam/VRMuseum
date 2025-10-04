@@ -1,19 +1,49 @@
-Carnotaurus 
+Carnotaurus sastrei
+Lived: 83.5 million years ago - 66 million years ago
+Mass: 2900 lb - 4600 lb
+Length: 25 ft
 
-Pteranodon 
+Pteranodon longiceps
+Lived: 89.8 million years ago - 70.6 million years ago
+Mass: 110 lb
+Wingspan: 12 ft - 16 ft
 
 Tyrannosaurus Rex
+Lived: 83.6 million years ago - 66 million years ago
+Mass: 9900 lb - 18000 lb
+Length: 40 ft
 
-Tylosaurus
+Tylosaurus proriger
+Lived: 90 million years ago - 66 million years ago
+Mass: 2400 lb
+Length: 46 ft
 
-Liopleurodon
+Liopleurodon ferox
+Lived: 166.1 million years ago - 139.8 million years ago
+Mass: 2200 lb -3700 lb
+Length: 23 ft
 
-Velociraptor
+Velociraptor mongoliensis
+Lived: 89.8 million years ago - 72.1 million years ago
+Mass: 43 lb
+Length: 6 ft
 
-Pachyrhinosaurus
+Pachyrhinosaurus canadensis
+Lived: 72.1 million years ago - 66 million years ago
+Mass: 4400 lb - 8800 lb
+Length: 26 ft
 
-Pentaceratops
+Pentaceratops sternbergii
+Lived: 83.5 million years ago - 66 million years ago
+Mass: 8800 lb - 11000lb
+Length: 26 ft
 
-Coelophysis
+Coelophysis bauri
+Lived: 221.5 million years ago - 190.8 million years ago
+Mass: 33 lb - 44 lb
+Length: 10 ft
 
-Brachiosaurus 
+Brachiosaurus altithorax
+Lived: 161.2 million years ago - 145 million years ago
+Mass: 12500 lb
+Length: 59 ft - 72 ft
