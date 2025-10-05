@@ -3,16 +3,24 @@ using UnityEngine;
 public class ExhibitProximity : MonoBehaviour
 {
     public GameObject uiPanel;
+    public string exhibitID;
 
-    private void OnTriggerEnter(Collider other)
+void OnTriggerEnter(Collider other)
+{
+    if (other.CompareTag("Player"))
     {
-        if (other.CompareTag("Player"))
+        uiPanel.SetActive(true);
+
+        // Skip tracking for lobby or non-exhibit signs
+        if (exhibitID != "Lobby")
         {
-            uiPanel.SetActive(true);
+            ExhibitTracker.Instance?.MarkVisited(exhibitID);
         }
     }
+}
 
-    private void OnTriggerExit(Collider other)
+
+    void OnTriggerExit(Collider other)
     {
         if (other.CompareTag("Player"))
         {
@@ -20,3 +28,4 @@ public class ExhibitProximity : MonoBehaviour
         }
     }
 }
+
