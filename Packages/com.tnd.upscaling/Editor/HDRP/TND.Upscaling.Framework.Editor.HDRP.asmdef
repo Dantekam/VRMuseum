@@ -1,0 +1,24 @@
+{
+    "name": "TND.Upscaling.Framework.Editor.HDRP",
+    "rootNamespace": "TND.Upscaling.Framework",
+    "references": [
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95",
+        "GUID:457756d89b35d2941b3e7b37b4ece6f1",
+        "GUID:039a05db797535d47bc605c30639a749",
+        "GUID:4c0345160834a014d9345cd060ce07c5",
+        "GUID:371bbf4008afb4246aa4bbefbcf89b5e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "TND_HDRP"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

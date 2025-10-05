@@ -1,0 +1,26 @@
+{
+    "name": "TND.Upscaling.Framework.Runtime.BIRP",
+    "rootNamespace": "TND.Upscaling.Framework.BIRP",
+    "references": [
+        "GUID:039a05db797535d47bc605c30639a749",
+        "GUID:371bbf4008afb4246aa4bbefbcf89b5e",
+        "GUID:d60799ab2a985554ea1a39cd38695018"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "TND_BIRP"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.modules.xr",
+            "expression": "1.0.0",
+            "define": "ENABLE_XR_MODULE"
+        }
+    ],
+    "noEngineReferences": false
+}

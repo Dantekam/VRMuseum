@@ -1,0 +1,25 @@
+{
+    "name": "TND.Upscaling.HDRP.DLSS",
+    "rootNamespace": "TND.Upscaling.HDRP.DLSS",
+    "references": [
+        "GUID:039a05db797535d47bc605c30639a749",
+        "GUID:4c0345160834a014d9345cd060ce07c5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "TND_HDRP"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.modules.nvidia",
+            "expression": "1.0.0",
+            "define": "TND_NVIDIA_MODULE_INSTALLED"
+        }
+    ],
+    "noEngineReferences": false
+}

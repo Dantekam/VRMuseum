@@ -1,0 +1,11 @@
+{
+  "name": "com.tnd.upscaling",
+  "version": "1.0.3",
+  "displayName": "TND Upscaler Framework",
+  "description": "Upscaling Framework for integrating upscaling in URP & HDRP",
+  "unity": "2021.3",
+  "author": "The Naked Dev <https://www.thenakeddev.com> (https://www.thenakeddev.com)",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  }
+}

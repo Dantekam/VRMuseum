@@ -1,0 +1,14 @@
+{
+    "name": "TND.Upscaling.Framework.Runtime.Core",
+    "rootNamespace": "TND.Upscaling.Framework",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

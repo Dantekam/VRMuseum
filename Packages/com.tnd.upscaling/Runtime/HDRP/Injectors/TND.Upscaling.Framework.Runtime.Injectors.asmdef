@@ -1,0 +1,25 @@
+{
+    "name": "TND.Upscaling.Framework.Runtime.Injectors",
+    "rootNamespace": "UnityEngine.Rendering.HighDefinition",
+    "references": [
+        "GUID:039a05db797535d47bc605c30639a749",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "TND_HDRP"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.modules.xr",
+            "expression": "1.0.0",
+            "define": "ENABLE_XR_MODULE"
+        }
+    ],
+    "noEngineReferences": false
+}

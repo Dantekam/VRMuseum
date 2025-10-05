@@ -1,0 +1,23 @@
+{
+    "name": "TND.Upscaling.Framework.Editor.BIRP",
+    "rootNamespace": "TND.Upscaling.Framework",
+    "references": [
+        "GUID:039a05db797535d47bc605c30639a749",
+        "GUID:371bbf4008afb4246aa4bbefbcf89b5e",
+        "GUID:1ae6262361600e7409a53b08922ba8bc",
+        "GUID:d60799ab2a985554ea1a39cd38695018"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "TND_BIRP"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

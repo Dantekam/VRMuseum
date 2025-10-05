@@ -1,0 +1,25 @@
+{
+    "name": "TND.Upscaling.Framework.Editor.URP",
+    "rootNamespace": "TND.Upscaling.Framework",
+    "references": [
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95",
+        "GUID:15fc0a57446b3144c949da3e2b9737a9",
+        "GUID:039a05db797535d47bc605c30639a749",
+        "GUID:49c2d8567c79a2142a97169f136455f5",
+        "GUID:cd41751a89786e240b219022c7a4efa1",
+        "GUID:371bbf4008afb4246aa4bbefbcf89b5e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "TND_URP"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
