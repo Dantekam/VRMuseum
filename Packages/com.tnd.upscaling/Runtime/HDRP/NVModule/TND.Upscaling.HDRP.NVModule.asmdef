@@ -1,0 +1,22 @@
+{
+    "name": "TND.Upscaling.HDRP.NVModule",
+    "rootNamespace": "UnityEngine.NVIDIA",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "TND_HDRP"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.modules.nvidia",
+            "expression": "1.0.0",
+            "define": "TND_NVIDIA_MODULE_INSTALLED"
+        }
+    ],
+    "noEngineReferences": false
+}

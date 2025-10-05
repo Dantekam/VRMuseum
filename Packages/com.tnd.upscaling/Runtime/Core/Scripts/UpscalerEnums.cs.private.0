@@ -1,0 +1,11 @@
+// Auto-generated enum of all registered upscalers on script reload
+namespace TND.Upscaling.Framework
+{
+    public enum RegisteredUpscalers
+    {
+        ASR,
+        FSR3,
+        DLSS,
+        XeSS
+    }
+}

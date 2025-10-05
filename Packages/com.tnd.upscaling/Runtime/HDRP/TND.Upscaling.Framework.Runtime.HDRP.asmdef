@@ -1,0 +1,20 @@
+{
+    "name": "TND.Upscaling.Framework.Runtime.HDRP",
+    "rootNamespace": "TND.Upscaling.Framework.HDRP",
+    "references": [
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95",
+        "GUID:457756d89b35d2941b3e7b37b4ece6f1",
+        "GUID:039a05db797535d47bc605c30639a749"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "TND_HDRP"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

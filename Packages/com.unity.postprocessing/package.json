@@ -1,0 +1,12 @@
+{
+  "name": "com.unity.postprocessing",
+  "version": "3.5.4",
+  "displayName": "Post Processing",
+  "unity": "2020.1",
+  "description": "The post-processing stack (v2) comes with a collection of effects and image filters you can apply to your cameras to improve the visuals of your games. Customised by The Naked Dev to include support for Upscalers",
+  "author": "The Naked Dev <https://www.thenakeddev.com> (https://www.thenakeddev.com)",
+  "dependencies": {
+    "com.unity.modules.physics": "1.0.0",
+    "com.tnd.upscaling": "1.0.0"
+  }
+}

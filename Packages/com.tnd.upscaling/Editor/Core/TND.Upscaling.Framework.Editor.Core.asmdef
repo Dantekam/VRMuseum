@@ -1,0 +1,18 @@
+{
+    "name": "TND.Upscaling.Framework.Editor.Core",
+    "rootNamespace": "TND.Upscaling.Framework",
+    "references": [
+        "GUID:039a05db797535d47bc605c30639a749"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
