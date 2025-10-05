@@ -44,7 +44,9 @@ In this museum you can find...
 ### Features  
 - Proximity-based UI panels  
 - Environmentally Designed exhibits to make the dinosaur feel at home  
-- Accurate educational content for each species represented 
+- Accurate educational content for each species represented
+- Jazzy music to play on loop throughout museum experience
+- Confetti awarded to those who visit all ten exhibits
 
 ### Bonus  
 **Bonus 1: 10+ Exhibitions**  
@@ -58,4 +60,10 @@ In this museum you can find...
 - Pachyrhinosaurus  
 - Coelophysis  
 - Tylosaurus  
-- Liopleurodon  
+- Liopleurodon
+
+### Bonus  
+**Bonus 3: Track Visiting With Reward**  
+- Whenever the user visits all ten exhibits confetti effects will be play the player for five seconds.
+- Note: You must trigger the proximal event of a sign to show the informational ui panel to count it as visited.
+  
