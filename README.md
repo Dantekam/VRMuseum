@@ -1,14 +1,75 @@
-# CSC 461/592 – Assignment 2 VR Museum  
-## Team  
-Kian Miley and John Blaufuss
+# VR Museum
 
-## VR Museum  
-In this immersive VR museum, visitors explore a collection of prehistoric exhibits featuring dinosaurs and marine reptiles. Each exhibit includes a proximity-triggered UI panel displaying educational facts such as species name, time period, weight, height, and length. The museum is designed for intuitive VR navigation using Meta Quest controllers and includes a fully enclosed environment with walls, ceiling, and lighting.
+VR Museum is a virtual reality educational experience developed in Unity for Meta Quest. Players explore a museum containing prehistoric exhibits featuring dinosaurs and marine reptiles, with each exhibit providing interactive educational information.
 
-## VR Museum
-In this museum you can find...
-- Lobby area
+The project combines VR locomotion and interaction, environmental design, proximity-based UI, and progression tracking to create an explorable educational environment.
+
+## Features
+
+- Immersive VR exploration
+- Meta Quest controller support
+- 10 exhibits
+- Dinosaurs and marine reptiles
+- Proximity-triggered informational UI
+- Educational species information
+- Custom exhibit environments
+- Exhibit visit tracking
+- Completion reward system
+- Environmental audio and background music
+
+## Interactive Exhibits
+
+Each exhibit contains a prehistoric animal presented within an environment designed around the exhibit.
+
+Approaching an exhibit's information area triggers a UI panel containing educational information such as:
+
+- Species name
+- Geological time period
+- Weight
+- Height
+- Length
+
+The interaction system allows visitors to discover information naturally while navigating through the museum in VR.
+
+## Exhibits
+
+The museum contains ten primary exhibits:
+
+- Tyrannosaurus rex
+- Pentaceratops
+- Pteranodon
+- Carnotaurus
+- Brachiosaurus
+- Velociraptor
+- Pachyrhinosaurus
+- Coelophysis
+- Tylosaurus
+- Liopleurodon
+
+## Visit Tracking
+
+The application tracks exhibits that the player has visited.
+
+An exhibit counts as visited after the player activates its proximity-based informational display. After visiting all ten exhibits, the player receives a visual confetti reward recognizing completion of the museum.
+
+## Technologies
+
+- Unity
+- C#
+- Virtual Reality
+- Meta Quest
+- XR interaction
+- Proximity-based interaction
+- World-space UI
+- 3D environment design
+
+## Gallery
+
+### Museum Lobby
+
 <img width="2559" height="1251" alt="Lobby" src="https://github.com/user-attachments/assets/91f40558-7057-4419-8c11-e9d478200fad" />
+
+### Exhibits
 
 - Tyrannosaurus rex
 <img width="2559" height="1267" alt="Tyrannosaurus Rex" src="https://github.com/user-attachments/assets/183f3db6-f99e-4068-ad8a-25ceda066e82" />
@@ -40,30 +101,13 @@ In this museum you can find...
 - Liopleurodon
 <img width="2559" height="1263" alt="Lipleurodon" src="https://github.com/user-attachments/assets/90db6d85-3066-49f6-ba4b-a1c3e498cc68" />
 
+## Project Background
 
-### Features  
-- Proximity-based UI panels  
-- Environmentally Designed exhibits to make the dinosaur feel at home  
-- Accurate educational content for each species represented
-- Jazzy music to play on loop throughout museum experience
-- Confetti awarded to those who visit all ten exhibits
+VR Museum was developed as a collaborative university VR project focused on designing an interactive educational environment.
 
-### Bonus  
-**Bonus 1: 10+ Exhibitions**  
-### Exhibits  
-- Tyrannosaurus rex  
-- Pentaceratops  
-- Pteranodon  
-- Carnotaurus  
-- Brachiosaurus  
-- Velociraptor  
-- Pachyrhinosaurus  
-- Coelophysis  
-- Tylosaurus  
-- Liopleurodon
+The project provided experience with VR interaction design, Unity development, 3D environment construction, world-space interfaces, event-driven interactions, and player progression within an immersive application.
 
-### Bonus  
-**Bonus 3: Track Visiting With Reward**  
-- Whenever the user visits all ten exhibits confetti effects will be play the player for five seconds.
-- Note: You must trigger the proximal event of a sign to show the informational ui panel to count it as visited.
-  
+## Team
+
+**Kian Miley**  
+**John Blaufuss**
